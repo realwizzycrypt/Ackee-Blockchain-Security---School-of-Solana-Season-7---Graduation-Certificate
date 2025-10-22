@@ -2,7 +2,7 @@
 
 Here’s my certificate:
 
-![Graduation Certificate](Graduation_Certificate.JPG)
+![Graduation Certificate]([Graduation_Certificate.JPG](https://github.com/realwizzycrypt/Solana-Developer-Certification/blob/main/Graduation_Certificate.jpg))
 
 This certificate can be verified Onchain associated with my Solana address: BaBhzXnyVsKHw3VRgyGeazTGctLpfRejVLFzZZ9BNTtu.
 
