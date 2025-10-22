@@ -1,1 +1,1 @@
-![Alt text](Graduation Certificate.JPG)
+![Graduation Certificate](Graduation%20Certificate.jpg)
